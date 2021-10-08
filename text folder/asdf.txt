@@ -1,0 +1,9 @@
+zip build then upload to a static shared hosting service
+
+reccomended ionos
+
+
+images need 0644 permissions or 0775
+
+
+2:13:00 updat config.json

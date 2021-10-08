@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0xf710C37B7D507A0e2AB87381776BEB9Bb5B4e658",
+  "SCAN_LINK": "https://polygonscan.com/token/0xf710c37b7d507a0e2ab87381776beb9bb5b4e658",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "StabbyTabbys Spooky pumpkinz",
+  "SYMBOL": "SPz",
+  "MAX_SUPPLY": 9172,
+  "WEI_COST": 2500000000000000000,
+  "DISPLAY_COST": 2.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/spookypumpkins-v2",
+  "SHOW_BACKGROUND": true
+}
+ 
